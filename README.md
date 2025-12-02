@@ -19,3 +19,8 @@ Whether you’re looking to make your first move into data science, automation, 
 
 💬 Beginners with a drive to learn and create are warmly welcomed!
 Join in, automate the boring stuff, and see your code come to life! 🚀
+===========================================================================================================================================================
+WEEK- 1
+    Getting Started we will first have a look at how git and github works this vedio might be helpful in getting a better understanding of these. 
+    https://youtu.be/8JJ101D3knE?si=tubfxnUJCJwv0OeM
+    next we move into basics of python refer week-1 resources for this.
