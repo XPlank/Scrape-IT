@@ -23,6 +23,7 @@ We will kick off with learning Python and NumPy. NumPy is a Python library (find
   Using VS Code is highly recommended. The instructions for setting up Jupyter can be found [here](https://medium.com/@claudia.nikel/how-to-setup-a-jupyter-notebook-in-vs-code-w-virtual-env-kernels-install-packages-884cf643375e)
 
 - Understanding GitHub: go through [this](https://www.datacamp.com/tutorial/github-and-git-tutorial-for-beginners) for a basic exposure with specific focus on how to stage and commit changes, pushing and pulling changes to and from origin (don't let these terms overwhelm you)
+- Here's a 10 min video on github - [click here](https://youtu.be/a9u2yZvsqHA?si=Lzsd65qd4j3xktLO) and here's a 4 min video on git - [click here](https://youtu.be/e9lnsKot_SQ?si=rcdFxQcmvf6GPFtx). Watch both of these for now, we shall learn more about git and github before starting the project
 
 ___
            
